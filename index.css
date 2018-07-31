@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+	font-family: 'Merienda', cursive;
+	background-color: #FDEEF4;
+	background-image: url(sunset.jpg);
+	background-position: center center;
+	/*background-attachment: fixed;
+	background-repeat: no-repeat;
+	image-rendering: 100%
+	outline-width:100%;*/
+	background-size: cover;
+	height: 100%;
+	
+
+}
+h1{
+	text-decoration: underline;
+	text-align: center;
+
+
+
+
+}
+h4{
+	text-align: left;
+	/*color: snow;*/
+	background: -webkit-linear-gradient(red, black);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	border:1px solid powderblue;
+	padding: 30px;
+}
+
+ol{
+	font-weight: bolder;
+
+}

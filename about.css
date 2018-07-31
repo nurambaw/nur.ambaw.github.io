@@ -1,0 +1,63 @@
+body{
+	background-color: powderblue;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(sunset.png);
+	background-position: center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+#page_content{
+	width: 85%;
+	margin: auto;
+}
+
+#top_nav{
+	text-align: right;
+}
+
+#page_title{
+	text-align: right;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	background-color: snow;
+	text-shadow: 1px 1px 1px black;
+	color: grey;
+	font-size: 2em;
+	letter-spacing: .2em;
+
+
+}
+
+.top_nav_item{
+	margin: 10px;
+	color: snow;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+.top_nav_item:hover{
+	margin: 10px
+	color:white;
+	text-decoration: none;
+
+
+}
+#current_page{
+	border-bottom: 3px solid midnightblue
+}
+
+#description{
+	padding: 40px;
+	color: solid black;
+	background-color: snow;
+}
+img{
+	border: double;
+	border: darkgrey 3px solid;
+	box-shadow: 5px 5px 5px lightgrey;
+}
+img{
+	display: block;
+	margin-left: auto;
+	
+}
